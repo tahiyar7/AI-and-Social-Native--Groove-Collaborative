@@ -1,7 +1,7 @@
 # AI-and-Social-Native--Groove-Collaborative
 
 a) A workflow you’ve automated or improved 
-<br/>Automation saves time structure sustains it<br/> 
+<br/>Automation saves time structure sustains it!<br/> 
 At Bread Financial, I noticed that our reconciliation process for risk documentation was time consuming and error prone due to manual tracking. I created an automated Excel workbook with formula-driven flags that instantly highlighted inconsistencies, missing fields, and duplicate values. Using data validation rules, conditional formatting, and nested IF statements, I reduced manual checks by 40% and eliminated recurring input errors. I also added a dropdown-based status tracker, which made weekly updates more transparent for leadership and helped speed up compliance sign-offs.
 Tool stack: Excel (formulas, data validation), Fiserv, ServiceNow
 
