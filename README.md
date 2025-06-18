@@ -12,8 +12,8 @@ Big shoutout to our Commercial Ops and Data Engineering teams for successfully v
 #DataOps #Teamwork #Smartsheet #Analytics #AdminSupport #HealthcareData
 Tool stack: LinkedIn tone, branding strategy, light copywriting
 
-c) A lightweight process or system you’ve built
-“Repeatable processes keep teams aligned—even when people change.”At Moderna, I built a “Validation Tracker System” for Master Data escalations. Incoming provider records were often delayed due to issues like license mismatches or address format errors. I created an Excel-based process that included:
+c) A lightweight process or system you’ve built“Repeatable processes keep teams aligned—even when people change.
+At Moderna, I built a “Validation Tracker System” for Master Data escalations. Incoming provider records were often delayed due to issues like license mismatches or address format errors. I created an Excel-based process that included:
 A multi-status dropdown (Pending, Blocked, Validated, Sent to SAP)
 A timestamp log using formulas to track when each step was completed
 Color-coded alerts for SLA breaches or missing license data
